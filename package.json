@@ -25,7 +25,7 @@
     "discord.js-commando": "github:discordjs/Commando",
     "dotenv": "^8.2.0",
     "erlpack": "github:discordapp/erlpack",
-    "express": "^4.17.1",
+    "express": "^4.20.0",
     "ffmpeg-static": "^4.3.0",
     "he": "^1.2.0",
     "libsodium-wrappers": "^0.7.9",
